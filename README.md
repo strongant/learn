@@ -1,4 +1,4 @@
 # learn high concurrence
 
 * <http://www.jianshu.com/p/c18e61d0726c>
-* <http://cmsblogs.com/?p=2071>
+* <https://toutiao.io/subjects/25239>
